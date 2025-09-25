@@ -1613,7 +1613,7 @@ from rest_framework import exceptions
 
 
 def some_service():
-    raise ValidationError("Error message here.")
+    raise exceptions.ValidationError("Some message")
 ```
 
 The response payload is going to look like this:
