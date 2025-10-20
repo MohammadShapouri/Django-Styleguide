@@ -75,51 +75,51 @@
 
 <!-- tocstop -->
 
-## How to ask a question or propose something?
+## چگونه سؤال بپرسیم یا پیشنهادی مطرح کنیم؟?
 
-Few points to navigate yourself:
+چند نکته برای راهنمایی خودتان:
 
-1. If you've read the Django Styleguide & you have questions or suggestions, **the simplest thing you can is to open an issue.** We will respond.
-1. Even if you have a question that you are not sure if it's related to the Django Styleguide - **just open an issue anyway.** We will respond.
-1. **If you want to see a code example**, make sure to head to the [Django Styleguide Example](https://github.com/HackSoftware/Django-Styleguide-Example) repository. We treat this as a "Django test project", combining best practices & also [examples from our blog](https://www.hacksoft.io/blog).
+1. اگر راهنمای Django را مطالعه کرده‌اید و سؤال یا پیشنهادی دارید، ساده‌ترین کار این است که یک Issue باز کنید. ما پاسخ خواهیم داد.
+2. حتی اگر سوالی دارید که مطمئن نیستید مربوط به راهنمای جنگو باشد — باز هم یک issue باز کنید. ما پاسخ خواهیم داد.
+1. **اگر می‌خواهید یک مثال کد ببینید**، حتماً به ریپو [Django Styleguide Example](https://github.com/HackSoftware/Django-Styleguide-Example) سر بزنید. این را به عنوان یک «پروژه آزمایشی جنگو» در نظر می‌گیریم که بهترین شیوه‌ها و همچنین [examples from our blog](https://www.hacksoft.io/blog) را ترکیب می‌کند.
 
-That's about it ✨
+همین موارد کافیست. ✨
 
-## What is this?
+## این چیست؟
 
-Hello 👋
+درود 👋
 
-This is the Django Styleguide, created by us, the folks at [HackSoft](https://hacksoft.io).
+این راهنمای جنگو است که توسط ما، اعضای [HackSoft](https://hacksoft.io) ایجاد شده است.
 
-**Few important notes about it:**
+**چند نکتهٔ مهم دربارهٔ این:**
 
-1. It's derived from many years of experience & many Django projects, both big & small.
-1. It's pragmatic. All things mentioned here are things tested in production.
-1. It's opinionated. This is how we build applications with Django.
-1. It's not the only way. There are other ways of building & structuring Django projects that can do the job for you.
-1. We have a [`Django-Styleguide-Example`](https://github.com/HackSoftware/Django-Styleguide-Example) to show most of the styleguide in an actual project.
+1. این راهنما از سال‌ها تجربه و پروژه‌های متنوع و بزرگ و کوچک جنگو، استخراج شده است..
+2. این راهنمایی واقع‌بینانست. همهٔ موارد ذکر شده در آن، در محیط واقعی و عملیاتی آزمایش شده‌اند.
+3. این راهنما دیدگاه‌محور است. این همان روشی است که ما با جنگو برنامه‌‌ها را می‌نویسیم.
+4. این تنها روش نیست. روش‌های دیگری برای ساخت و ساختاردهی پروژه‌های جنگو وجود دارد که می‌توانند همین کار را برای شما انجام دهند.
+5. ما [`Django-Styleguide-Example`](https://github.com/HackSoftware/Django-Styleguide-Example) داریم که بیشتر نکات این راهنما را در قالب یک پروژه واقعی نشان می‌دهد.
 
-**You can watch Radoslav Georgiev's [Django structure for scale and longevity](https://www.youtube.com/watch?v=yG3ZdxBb1oo) for the philosophy behind the styleguide:**
+**می‌توانید فلسفه پشت این راهنما را با دیدن ویدیوی رادوسلاو جورجیف با عنوان [Django structure for scale and longevity](https://www.youtube.com/watch?v=yG3ZdxBb1oo) مشاهده کنید:**
 
 [![Django structure for scale and longevity by Radoslav Georgiev](https://img.youtube.com/vi/yG3ZdxBb1oo/0.jpg)](https://www.youtube.com/watch?v=yG3ZdxBb1oo)
 
-**You can also watch Radoslav Georgiev & Ivaylo Bachvarov's [discussion on HackCast, around the Django Styleguide](https://www.youtube.com/watch?v=9VfRaPECbpY):**
+**همچنین می‌توانید گفتگوی رادوسلاو جورجیف و ایویلو باچواروف در [discussion on HackCast, around the Django Styleguide](https://www.youtube.com/watch?v=9VfRaPECbpY) را مشاهده کنید:**
 
 [![HackCast S02E08 - Django Community & Django Styleguide](https://img.youtube.com/vi/9VfRaPECbpY/0.jpg)](https://www.youtube.com/watch?v=9VfRaPECbpY)
 
-## How to use it?
+## چطور از این استفاده کنیم؟
 
-When it comes to the Django Styleguide, **there are 3 general ways of using it:**
+وقتی پای راهنمای جنگو به میان می‌آید، سه روش کلی برای استفاده از آن وجود دارد:**
 
-1. Strictly follow everything written here.
-2. Cherry-pick whatever makes sense to you, based on your specific context.
-3. Don't follow anything written here.
+1. به‌طور کامل و دقیق همهٔ موارد نوشته شده در این راهنما را دنبال کنید.
+2. مواردی را که با شرایط شما سازگار است، انتخاب کنید و از آن‌ها استفاده کنید.
+3. هیچ‌یک از موارد نوشته شده در این راهنما را دنبال نکنید.
 
-**We recommend point number 2:**
+**ما روش شمارهٔ ۲ را توصیه می‌کنیم:**
 
-- Read the styleguide.
-- Decide what's going to work best for you.
-- Adapt for your specific case.
+- راهنما را مطالعه کنید.
+- تصمیم بگیرید کدام روش برای شما بهتر عمل می‌کند.
+- آن را متناسب با شرایط خاص خود تنظیم کنید.
 
 ## Overview
 
