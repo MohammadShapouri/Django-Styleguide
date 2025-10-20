@@ -1,19 +1,19 @@
 # Django Styleguide
 
-> 👀 **Need help with your Django project?** [HackSoft is here for you](https://www.hacksoft.io/solutions/django?utm_source=django-styleguide&utm_medium=web&utm_campaign=Django-Campaign). Reach out at `consulting@hacksoft.io`
+> 👀 **در پروژهٔ Django تان نیاز به کمک دارید؟** [تیم HackSoft در کنار شماست](https://www.hacksoft.io/solutions/django?utm_source=django-styleguide&utm_medium=web&utm_campaign=Django-Campaign).با ما در نشانی `consulting@hacksoft.io` در ارتباط باشید.
 
 ![Django Styleguide](logo.png)
 
-**Table of contents:**
+**فهرست مطالب:**
 
 <!-- toc -->
 
-- [How to ask a question or propose something?](#how-to-ask-a-question-or-propose-something)
-- [What is this?](#what-is-this)
-- [How to use it?](#how-to-use-it)
-- [Overview](#overview)
-- [Why not?](#why-not)
-- [Cookie Cutter](#cookie-cutter)
+- [چگونه سؤال بپرسیم یا پیشنهادی مطرح کنیم؟](#how-to-ask-a-question-or-propose-something)
+- [این چیست؟](#what-is-this)
+- [چطور از این استفاده کنیم؟](#how-to-use-it)
+- [نگاه اجمالی](#overview)
+- [چرا این کار را نکنیم؟](#why-not)
+- [نمونه آماده](#cookie-cutter)
 - [Models](#models)
   - [Base model](#base-model)
   - [Validation - `clean` and `full_clean`](#validation---clean-and-full_clean)
